@@ -28,7 +28,13 @@
     Yes, but Romeo will anwser directly to the write, wether or not he accepts.
 
 **Mercutio**\
-    Poor, poor Romeo. Struck with Cupid's arrow and stabed by love. His mind infested with love.
+    Poor, poor Romeo. Struck with Cupid's arrow and stabed by love. His mind infested with \<what>?
+
+**Benvolio**\
+    Whats Tybalt's story anyways?
+
+**Mercutio**\
+    He stronger than a horse. Does everything as it should be like singing at a recital, paying attention to timing, distance, and proportions. He is a gentalmen from the best of the best of fencing schools, can turn any argument into a fight of wits, or, a fight of swords.
 
 
 
