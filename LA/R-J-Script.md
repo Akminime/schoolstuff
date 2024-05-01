@@ -17,3 +17,25 @@
 **Mercutio**
 
 **Benvolio**
+
+
+
+<center><b><i>Enter Romeo</i></b></center>
+
+<center><b><i>Enter Nurse and Peter</i></b></center>
+
+
+**Romeo**
+    Commend me to thy lady.
+
+**Nurse**
+    Ay, a thousand. —Peter
+
+**Peter**
+    Anon.
+
+**Nurse**
+    Before and apace.
+
+
+<div style="text-align: right;"><b><i>All Exit</i></b></div>
