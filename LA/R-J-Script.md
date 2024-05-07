@@ -1,5 +1,11 @@
 # Act 2 - Scene 4
 
+***
+**Intro Text**
+
+This is our remake of Romeo and Juleit Act 2, Scene 4. Our scene is set in England during the Victorian Age. This scene is about the Nurse bringing a message from Juleit to her Romeo. Please Enjoy.
+***
+
 **Mercutio**  
 Where the devil should this Romeo be? Did he come home last night?
 
@@ -71,10 +77,16 @@ Spot on mate.
 Ah, here come the servants of the Capulet's. What news, what letters have you there?
 
 **Nurse**  
-Good morrning, gentlemen. I have a message for Romeo.
+Good morrning, gentlemen.
+<div style="text-align: right; color: #FF0056"><b><i>[To Romeo]</i></b></div>
+Pray you, sir, a word. And as I told you, my young lady wants me to find you. What she bid me say, I will keep to myself. But first let me say: if you lead her into a fool’s paradise, as they say, it would be an extremely indecent behavior, as they say. For she is so young, it would be an ill thing and a very weak deal.
+
 
 **Mercutio**  
 What does a Capulet have for Romeo
+
+**Nurse**
+If you say anything against me, I’ll take you down. And if I cannot, I'll find those that shall. And you must stand by too and suffer every knave to use me at his pleasure.
 
 **Romeo**  
 Let her speak Mercutio.
@@ -86,7 +98,8 @@ Juliet requests that you meet her at Friar Laurence’s cell this afternoon past
 Very well, I will be ther. Take this for your troubles.
 
 **Nurse**
-I Cannot accept this. I must return without it.
+I musnt except this! If I am seen with Monteque money..
+<div style="text-align: right; color: #FF0056"><b><i>[Gets Cut Off]</i></b></div>
 
 **Romeo**
 Please Nurse, take this for your troubles in bringing me this message.
